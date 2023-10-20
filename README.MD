@@ -26,4 +26,4 @@ You are developing an application that helps users manage and control various el
 
 ## UML Class Diagram
 
-![Treb Lab Assignment 6 Adapter Pattern](https://github.com/TrebleClef20/adapterPattern/assets/65029347/13731d87-8e25-4b3b-b8ff-24ce4e32034e)
+![Treb Lab Assignment 6 Adapter Pattern](https://github.com/TrebleClef20/adapterPattern/assets/65029347/10f2f902-cf42-44d4-bc4b-09eec7c3153e)
